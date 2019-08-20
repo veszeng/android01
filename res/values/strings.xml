@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScreenShot</string>
+
+    <!--launch tigs-->
+    <string name="enter_register_num">Pls enter the registration code</string>
+    <string name="registercode">RegCode:</string>
+    <string name="trial">trial</string>
+    <string name="sure">registered</string>
+    <string name="sure2">sure</string>
+    <string name="cancel">cancel</string>
+    <string name="trial_tig1">Welcome to try the whiteboard software!Your trial period for the rest of </string>
+    <string name="day"> days.</string>
+    <string name="trial_tig2">sorry, The probation period is over, pls register before using.</string>
+    <string name="network_exception">The network is not available, pls check the network status.</string>
+    <string name="str_dialog_title">pls waiting...</string>
+    <string name="str_dialog_body">Being validated...</string>
+    <string name="register_tig1">Registration is successful, welcome to use \'EducationPad\'</string>
+    <string name="register_tig2">Registration code has been registered by other equipment, please enter again!</string>
+    <string name="register_tig3">Registration code is not correct, please enter again.</string>
+    <string name="register_tig4">Registration code cannot be empty.</string>
+
+    <!--系统设置相关string-->
+    <string name="system_setting">System Settings</string>
+    <string name="system_multitouch">Multi-touch</string>
+    <string name="system_multitouch_on">on</string>
+    <string name="system_multitouch_off">off</string>
+    <string name="system_check_update">Check the update</string>
+    <!--
+    http://www.cec-sct.com/EducationPad/en_UpdateMessage_oem_ns.html  非SCT的OEM版本
+    http://www.cec-sct.com/EducationPad/en_UpdateMessage_oem.html  sct的OEM版本
+    http://www.cec-sct.com/EducationPad/en_UpdateMessage_sct.html  sct版本
+    http://www.cec-sct.com/EducationPad/en_UpdateMessage_hiview.html  hiview版本
+    -->
+    <string name="update_url">http://www.cec-sct.com/EducationPad/en_UpdateMessage_hiview.html</string>
+    <string name="system_use">Directions for use</string>
+    <string name="system_closeapp">Close the program</string>
+
+    <string name="soft_update_title">Updates</string>
+    <string name="soft_update_updatebtn">now</string>
+    <string name="soft_update_later">later</string>
+    <string name="soft_updating">updating</string>
+    <string name="soft_update_cancel">cancel</string>
+    <string name="version_latest">Version is the latest</string>
+
+    <string name="select_color">Pls select a color</string>
+
+    <string name="open_file">File Manager</string>
+    <string name="empty_file">An empty directory</string>
+    <string name="selector_app">Pls select the appropriate software to open the file</string>
+    <string name="attachment">The attachment can not open</string>
+    <string name="filelist_back">back</string>
+
+    <string name="time">00:00:00</string>
+
+    <string name="save_title">save</string>
+    <string name="save_name">file name</string>
+    <string name="save_type">format</string>
+    <string name="bitmap_empty">Bitmap is empty</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="tips">Tips</string>
+    <string name="Message">Did you save the pages before exit:</string>
+    <string name="save_dir">The custom directory</string>
+    <string name="save_dir_tips">enter your directory name</string>
+    <string name="save_dir_tips2">enter your file name</string>
+    <string name="savinging">Saving pages,pls wait a moment</string>
+    <string name="save_end_tips">Click Yes to exit the application</string>
+    <string name="save_end_tips2">Save End</string>
+
+    <string name="catalogue">Directory</string>
+
+    <string name="capture_again">Capture again!</string>
+    <string name="capture_cancel">Capture cancel!</string>
+    <string name="capture_finish">Complete the Capture!</string>
+    <string name="capture_save">Save the Capture</string>
+    <string name="sdcard_failed">SD card is invalid</string>
+    <string name="save_failed">Save failed</string>
+
+    <string name="back">back</string>
+    <string name="word_limit">The number of words has exceeded the limit</string>
+    <string name="word_limit2">enter \'A~Z,a~z,0~9,-\' character</string>
+
+    <string name="item_openfile">Open</string>
+    <string name="item_savefile">Save</string>
+    <string name="item_pens">Pen</string>
+    <string name="item_eraser">Eraser</string>
+    <string name="item_newpage">New</string>
+    <string name="item_graphics">Graphic</string>
+    <string name="item_search">Search</string>
+    <string name="item_del">Del</string>
+    <string name="item_prepage">Pre</string>
+    <string name="item_nextpage">Next</string>
+
+    <string name="helppdf_filename">/HelpDocument.pdf</string>
+
+    <string name="host_menu">MainMenu</string>
+    <string name="tools_menu">Toolbar</string>
+    <string name="minimize">Minimize</string>
+
+    <string name="NoData_Tips">No data can be saved</string>
+    <string name="open_failed">Open failed</string>
+    <string name="Update_tigs">There is a new version,Do you want to update?</string>
+</resources>
